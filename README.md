@@ -1,18 +1,18 @@
-<!-- HEADER — warm amber/gold gradient matching profile photo tones -->
+<!-- HEADER — deep dark base, single electric cyan accent, high contrast like the photo lighting -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f00,30:3d1f00,60:8B4513,100:D2691E&height=210&section=header&text=Rocky%20Chowdhury&fontSize=54&fontColor=FFD580&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Django%20%C2%B7%20FastAPI%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=58&descColor=F5CBA7" alt="header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:0f1923,75:0f2a38,100:0e3d52&height=210&section=header&text=Rocky%20Chowdhury&fontSize=54&fontColor=00D4FF&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Django%20%C2%B7%20FastAPI%20%C2%B7%20PostgreSQL&descSize=18&descAlignY=58&descColor=8ECAE6" alt="header" width="100%" />
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-D2691E?style=for-the-badge&logo=linkedin&logoColor=FFD580)](https://linkedin.com/in/rockychowdhury1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-8B4513?style=for-the-badge&logo=netlify&logoColor=FFD580)](https://rocky-chowdhury.netlify.app)
-[![Email](https://img.shields.io/badge/Gmail-C0392B?style=for-the-badge&logo=gmail&logoColor=FFD580)](mailto:rocky20809@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-8B0000?style=for-the-badge&logo=youtube&logoColor=FFD580)](https://youtube.com/@rockychowdhurydev)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3d1f00?style=for-the-badge&logo=codechef&logoColor=FFD580)](https://www.codechef.com/users/rocky20809)
-[![LeetCode](https://img.shields.io/badge/LeetCode-B8860B?style=for-the-badge&logo=leetcode&logoColor=1a0f00)](https://leetcode.com/Rocky20809)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/rockychowdhury1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=netlify&logoColor=00D4FF)](https://rocky-chowdhury.netlify.app)
+[![Email](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:rocky20809@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-0d0d0d?style=for-the-badge&logo=youtube&logoColor=00D4FF)](https://youtube.com/@rockychowdhurydev)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0d0d0d?style=for-the-badge&logo=codechef&logoColor=00D4FF)](https://www.codechef.com/users/rocky20809)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=00D4FF)](https://leetcode.com/Rocky20809)
 
-![Profile Views](https://komarev.com/ghpvc/?username=rockychowdhury&color=D2691E&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=rockychowdhury&color=00D4FF&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -48,36 +48,36 @@ class RockyChowdhury:
 
 **Backend & API**
 
-![Python](https://img.shields.io/badge/Python-8B4513?style=for-the-badge&logo=python&logoColor=FFD580)
-![Django](https://img.shields.io/badge/Django-3d1f00?style=for-the-badge&logo=django&logoColor=FFD580)
-![DRF](https://img.shields.io/badge/Django_REST-5C1A00?style=for-the-badge&logo=django&logoColor=FFD580)
-![FastAPI](https://img.shields.io/badge/FastAPI-2C4A1E?style=for-the-badge&logo=fastapi&logoColor=FFD580)
-![Node.js](https://img.shields.io/badge/Node.js-1A3A1A?style=for-the-badge&logo=nodedotjs&logoColor=FFD580)
-![Express](https://img.shields.io/badge/Express.js-2A2A2A?style=for-the-badge&logo=express&logoColor=FFD580)
+![Python](https://img.shields.io/badge/Python-0f1923?style=for-the-badge&logo=python&logoColor=00D4FF)
+![Django](https://img.shields.io/badge/Django-0f1923?style=for-the-badge&logo=django&logoColor=00D4FF)
+![DRF](https://img.shields.io/badge/Django_REST-0f1923?style=for-the-badge&logo=django&logoColor=00D4FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f1923?style=for-the-badge&logo=fastapi&logoColor=00D4FF)
+![Node.js](https://img.shields.io/badge/Node.js-0f1923?style=for-the-badge&logo=nodedotjs&logoColor=00D4FF)
+![Express](https://img.shields.io/badge/Express.js-0f1923?style=for-the-badge&logo=express&logoColor=00D4FF)
 
 **Databases & Caching**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C2E4A?style=for-the-badge&logo=postgresql&logoColor=FFD580)
-![Redis](https://img.shields.io/badge/Redis-7B1A1A?style=for-the-badge&logo=redis&logoColor=FFD580)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A3A1A?style=for-the-badge&logo=mongodb&logoColor=FFD580)
-![MySQL](https://img.shields.io/badge/MySQL-1A2A4A?style=for-the-badge&logo=mysql&logoColor=FFD580)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1923?style=for-the-badge&logo=postgresql&logoColor=00D4FF)
+![Redis](https://img.shields.io/badge/Redis-0f1923?style=for-the-badge&logo=redis&logoColor=00D4FF)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=for-the-badge&logo=mongodb&logoColor=00D4FF)
+![MySQL](https://img.shields.io/badge/MySQL-0f1923?style=for-the-badge&logo=mysql&logoColor=00D4FF)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-1A2A3A?style=for-the-badge&logo=react&logoColor=FFD580)
-![Next.js](https://img.shields.io/badge/Next.js-1a0f00?style=for-the-badge&logo=nextdotjs&logoColor=FFD580)
-![TypeScript](https://img.shields.io/badge/TypeScript-1A2A4A?style=for-the-badge&logo=typescript&logoColor=FFD580)
-![JavaScript](https://img.shields.io/badge/JavaScript-3A2A00?style=for-the-badge&logo=javascript&logoColor=FFD580)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-1A3A3A?style=for-the-badge&logo=tailwindcss&logoColor=FFD580)
+![React](https://img.shields.io/badge/React-0f1923?style=for-the-badge&logo=react&logoColor=00D4FF)
+![Next.js](https://img.shields.io/badge/Next.js-0f1923?style=for-the-badge&logo=nextdotjs&logoColor=00D4FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f1923?style=for-the-badge&logo=typescript&logoColor=00D4FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f1923?style=for-the-badge&logo=javascript&logoColor=00D4FF)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0f1923?style=for-the-badge&logo=tailwindcss&logoColor=00D4FF)
 
 **DevOps & Tooling**
 
-![Docker](https://img.shields.io/badge/Docker-1A2A4A?style=for-the-badge&logo=docker&logoColor=FFD580)
-![Nginx](https://img.shields.io/badge/Nginx-1A3A1A?style=for-the-badge&logo=nginx&logoColor=FFD580)
-![Celery](https://img.shields.io/badge/Celery-2C3A1A?style=for-the-badge&logo=celery&logoColor=FFD580)
-![Git](https://img.shields.io/badge/Git-5C1A00?style=for-the-badge&logo=git&logoColor=FFD580)
-![Postman](https://img.shields.io/badge/Postman-5C2A00?style=for-the-badge&logo=postman&logoColor=FFD580)
-![C++](https://img.shields.io/badge/C++-1A1A4A?style=for-the-badge&logo=c%2B%2B&logoColor=FFD580)
+![Docker](https://img.shields.io/badge/Docker-0f1923?style=for-the-badge&logo=docker&logoColor=00D4FF)
+![Nginx](https://img.shields.io/badge/Nginx-0f1923?style=for-the-badge&logo=nginx&logoColor=00D4FF)
+![Celery](https://img.shields.io/badge/Celery-0f1923?style=for-the-badge&logo=celery&logoColor=00D4FF)
+![Git](https://img.shields.io/badge/Git-0f1923?style=for-the-badge&logo=git&logoColor=00D4FF)
+![Postman](https://img.shields.io/badge/Postman-0f1923?style=for-the-badge&logo=postman&logoColor=00D4FF)
+![C++](https://img.shields.io/badge/C++-0f1923?style=for-the-badge&logo=c%2B%2B&logoColor=00D4FF)
 
 </div>
 
@@ -92,11 +92,11 @@ class RockyChowdhury:
 ### 🏥 MediSync *(In Progress)*
 **Smart Healthcare Scheduling Platform**
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-2C4A1E?style=flat-square&logo=fastapi&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C2E4A?style=flat-square&logo=postgresql&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Next.js](https://img.shields.io/badge/Next.js-1a0f00?style=flat-square&logo=nextdotjs&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Redis](https://img.shields.io/badge/Redis-7B1A1A?style=flat-square&logo=redis&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Docker](https://img.shields.io/badge/Docker-1A2A4A?style=flat-square&logo=docker&logoColor=FFD580)](https://github.com/rockychowdhury)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0f1923?style=flat-square&logo=fastapi&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1923?style=flat-square&logo=postgresql&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Next.js](https://img.shields.io/badge/Next.js-0f1923?style=flat-square&logo=nextdotjs&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Redis](https://img.shields.io/badge/Redis-0f1923?style=flat-square&logo=redis&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Docker](https://img.shields.io/badge/Docker-0f1923?style=flat-square&logo=docker&logoColor=00D4FF)](https://github.com/rockychowdhury)
 
 Full-stack appointment & resource management system for clinics and multi-specialty practices.
 
@@ -115,11 +115,11 @@ Full-stack appointment & resource management system for clinics and multi-specia
 ### 🐾 PetCarePlus
 **AI-Powered Pet Care & Rehoming Platform**
 
-[![Django](https://img.shields.io/badge/Django-3d1f00?style=flat-square&logo=django&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1C2E4A?style=flat-square&logo=postgresql&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Redis](https://img.shields.io/badge/Redis-7B1A1A?style=flat-square&logo=redis&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![React](https://img.shields.io/badge/React-1A2A3A?style=flat-square&logo=react&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Docker](https://img.shields.io/badge/Docker-1A2A4A?style=flat-square&logo=docker&logoColor=FFD580)](https://github.com/rockychowdhury)
+[![Django](https://img.shields.io/badge/Django-0f1923?style=flat-square&logo=django&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f1923?style=flat-square&logo=postgresql&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Redis](https://img.shields.io/badge/Redis-0f1923?style=flat-square&logo=redis&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![React](https://img.shields.io/badge/React-0f1923?style=flat-square&logo=react&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Docker](https://img.shields.io/badge/Docker-0f1923?style=flat-square&logo=docker&logoColor=00D4FF)](https://github.com/rockychowdhury)
 
 Full-stack pet services platform with AI-assisted adoption screening and intelligent booking.
 
@@ -138,10 +138,10 @@ Full-stack pet services platform with AI-assisted adoption screening and intelli
 ### 🏢 Employee Management System
 **Role-Based Payroll Dashboard**
 
-[![React](https://img.shields.io/badge/React-1A2A3A?style=flat-square&logo=react&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![MongoDB](https://img.shields.io/badge/MongoDB-1A3A1A?style=flat-square&logo=mongodb&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Express](https://img.shields.io/badge/Express-2A2A2A?style=flat-square&logo=express&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Firebase](https://img.shields.io/badge/Firebase-3A2A00?style=flat-square&logo=firebase&logoColor=FFD580)](https://github.com/rockychowdhury)
+[![React](https://img.shields.io/badge/React-0f1923?style=flat-square&logo=react&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=flat-square&logo=mongodb&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Express](https://img.shields.io/badge/Express-0f1923?style=flat-square&logo=express&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Firebase](https://img.shields.io/badge/Firebase-0f1923?style=flat-square&logo=firebase&logoColor=00D4FF)](https://github.com/rockychowdhury)
 
 Full-stack HR dashboard with real-time payroll & employee management.
 
@@ -157,10 +157,10 @@ Full-stack HR dashboard with real-time payroll & employee management.
 ### 💡 AltRec
 **Q&A Based Product Recommendation System**
 
-[![React](https://img.shields.io/badge/React-1A2A3A?style=flat-square&logo=react&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Node.js](https://img.shields.io/badge/Node.js-1A3A1A?style=flat-square&logo=nodedotjs&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![MongoDB](https://img.shields.io/badge/MongoDB-1A3A1A?style=flat-square&logo=mongodb&logoColor=FFD580)](https://github.com/rockychowdhury)
-[![Firebase](https://img.shields.io/badge/Firebase-3A2A00?style=flat-square&logo=firebase&logoColor=FFD580)](https://github.com/rockychowdhury)
+[![React](https://img.shields.io/badge/React-0f1923?style=flat-square&logo=react&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Node.js](https://img.shields.io/badge/Node.js-0f1923?style=flat-square&logo=nodedotjs&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0f1923?style=flat-square&logo=mongodb&logoColor=00D4FF)](https://github.com/rockychowdhury)
+[![Firebase](https://img.shields.io/badge/Firebase-0f1923?style=flat-square&logo=firebase&logoColor=00D4FF)](https://github.com/rockychowdhury)
 
 Personalized product recommendation platform powered by user query workflows.
 
@@ -196,9 +196,9 @@ Personalized product recommendation platform powered by user query workflows.
 
 <div align="center">
 
-[![Followers](https://img.shields.io/github/followers/rockychowdhury?label=Followers&style=for-the-badge&logo=github&color=8B4513&labelColor=1a0f00)](https://github.com/rockychowdhury?tab=followers)
-[![Stars](https://img.shields.io/github/stars/rockychowdhury?label=Total%20Stars&style=for-the-badge&logo=github&color=B8860B&labelColor=1a0f00)](https://github.com/rockychowdhury)
-[![Profile Views](https://komarev.com/ghpvc/?username=rockychowdhury&color=D2691E&style=for-the-badge&label=Profile+Views)](https://github.com/rockychowdhury)
+[![Followers](https://img.shields.io/github/followers/rockychowdhury?label=Followers&style=for-the-badge&logo=github&color=00D4FF&labelColor=0f1923)](https://github.com/rockychowdhury?tab=followers)
+[![Stars](https://img.shields.io/github/stars/rockychowdhury?label=Total%20Stars&style=for-the-badge&logo=github&color=00D4FF&labelColor=0f1923)](https://github.com/rockychowdhury)
+[![Profile Views](https://komarev.com/ghpvc/?username=rockychowdhury&color=00D4FF&style=for-the-badge&label=Profile+Views)](https://github.com/rockychowdhury)
 
 </div>
 
@@ -215,19 +215,18 @@ CGPA: **3.60 / 4.00**
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
 
 ### 💼 Available for Backend Engineering Roles
 
 *Let's build something production-ready together*
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-D2691E?style=for-the-badge&logo=linkedin&logoColor=FFD580)](https://linkedin.com/in/rockychowdhury1)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-8B4513?style=for-the-badge&logo=netlify&logoColor=FFD580)](https://rocky-chowdhury.netlify.app)
-[![Email](https://img.shields.io/badge/Send_Email-8B0000?style=for-the-badge&logo=gmail&logoColor=FFD580)](mailto:rocky20809@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0f1923?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://linkedin.com/in/rockychowdhury1)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0f1923?style=for-the-badge&logo=netlify&logoColor=00D4FF)](https://rocky-chowdhury.netlify.app)
+[![Email](https://img.shields.io/badge/Send_Email-0f1923?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:rocky20809@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2691E,40:8B4513,70:3d1f00,100:1a0f00&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e3d52,40:0f2a38,75:0f1923,100:0d0d0d&height=120&section=footer" width="100%" />
 
 </div>
