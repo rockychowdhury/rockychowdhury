@@ -57,7 +57,7 @@ Here's what "full journey" actually means on my projects:
 | `🐳 Docker` | Containerize, wire services, write docker-compose | Every project: app + DB + Redis + Nginx in compose |
 | `🚀 Live` | Deploy, optimize, measure outcomes | PetCarePlus: 40% faster queries after geospatial optimization |
 
-This is why I can have a real conversation with a team lead, not just a recruiter.
+
 
 ---
 
